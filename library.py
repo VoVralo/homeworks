@@ -21,6 +21,3 @@ def passcode_checker(string: str) -> bool:
             return False
 
     return all([contains_lower_letter, contains_upper_letter, contains_specials])
-
-
-passcode = ('dDrrrrrrrrrggfhgfh+')
