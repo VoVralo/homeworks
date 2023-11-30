@@ -1,0 +1,12 @@
+[
+  "test/test_urls.py::test_main_page_get",
+  "test/test_urls.py::test_main_page_post",
+  "test_library.py::test_contains_non_ascii",
+  "test_library.py::test_contains_space",
+  "test_library.py::test_generate_random_number",
+  "test_library.py::test_generate_random_number_type",
+  "test_library.py::test_missing_lowercase",
+  "test_library.py::test_missing_special_character",
+  "test_library.py::test_missing_uppercase",
+  "test_library.py::test_short_password"
+]
